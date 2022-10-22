@@ -1,4 +1,4 @@
-int n=nums.size();
+int n=nums.size();// this will get the size of the array or given vector
         int local_max=nums[0];
         int global_max=nums[0];
         for(int i=1;i<n;i++)
